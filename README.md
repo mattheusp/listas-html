@@ -47,6 +47,8 @@ A lista de definição é usada para fornecer descrições de termos. Cada termo
 
 Se você deseja contribuir com algum projeto ou encontrar algum problema, fique à vontade para abrir uma nova issue ou enviar um pull request. Toda contribuição é bem-vinda!
 
+Espero que esses exemplos e informações sejam úteis para você aprender sobre os diferentes tipos de listas no HTML. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue neste repositório.
+
 ## Licença ⚖️
 
 Este portfolio é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
