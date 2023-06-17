@@ -13,6 +13,8 @@ A lista ordenada é usada para apresentar itens em uma sequência específica. C
   <li>Item 3</li>
 </ol> 
 
+![Tumbnail](/thumbnail%20tiposdelistas.png)
+
 ## Lista Não Ordenada (`<ul>`) 🔽
  
 A lista não ordenada é usada quando a ordem dos itens não é importante. Cada item é precedido por um marcador, geralmente um ponto ou um círculo. Veja um exemplo de uma lista não ordenada:
