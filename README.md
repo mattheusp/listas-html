@@ -24,7 +24,7 @@ A lista não ordenada é usada quando a ordem dos itens não é importante. Cada
 </ul>
 
 
-## Lista de Definição (<dl>) 🔽
+## Lista de Definição (`<dl>`) 🔽
 
 A lista de definição é usada para fornecer descrições de termos. Cada termo é definido por meio de uma descrição associada. Aqui está um exemplo de uma lista de definição:
 
