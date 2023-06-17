@@ -13,7 +13,7 @@ A lista ordenada é usada para apresentar itens em uma sequência específica. C
   <li>Item 3</li>
 </ol> 
 
-![Tumbnail](/thumbnail%20tiposdelistas.png)
+![Lista-ordenada](/lista%20ordenada.png)
 
 ## Lista Não Ordenada (`<ul>`) 🔽
  
