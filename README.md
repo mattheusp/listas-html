@@ -25,6 +25,7 @@ A lista não ordenada é usada quando a ordem dos itens não é importante. Cada
   <li>Item C</li>
 </ul>
 
+![Lista-nao-odernada](/lista%20n%C3%A3o%20ordenada.png)
 
 ## Lista de Definição (`<dl>`) 🔽
 
@@ -39,6 +40,7 @@ A lista de definição é usada para fornecer descrições de termos. Cada termo
   <dd>Descrição 3</dd>
 </dl>
 
+![Lista-nao-odernada](/lista%20n%C3%A3o%20ordenada.png)
 
 ## Contato ✉️
 
