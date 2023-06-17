@@ -8,14 +8,14 @@ Este repositório contém exemplos de diferentes tipos de listas no HTML. O HTML
 
 A lista ordenada é usada para apresentar itens em uma sequência específica. Cada item é numerado em ordem crescente por padrão. Veja um exemplo básico de uma lista ordenada no HTML:
 
-![Lista-ordenada](/lista%20ordenada.png)
+![Lista-ordenada](/LISTA%20N%C3%83O%20ORDENADA!.png)
 
 ## Lista Não Ordenada (`<ul>`) 🔽
  
 A lista não ordenada é usada quando a ordem dos itens não é importante. Cada item é precedido por um marcador, geralmente um ponto ou um círculo. Veja um exemplo de uma lista não ordenada:
 
 
-![Lista-nao-odernada](/lista%20n%C3%A3o%20ordenada.png)
+![Lista-nao-odernada](/github%20-%20lista%20n%C3%A3o%20ordenada.png)
 
 ## Lista de Definição (`<dl>`) 🔽
 
