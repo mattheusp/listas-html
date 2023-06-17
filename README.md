@@ -2,6 +2,8 @@
 
 Este repositório contém exemplos de diferentes tipos de listas no HTML. O HTML fornece várias maneiras de criar listas, como listas ordenadas, não ordenadas e de definição. Neste projeto, você encontrará exemplos e código para cada um desses tipos de listas.
 
+![Tumbnail](/thumbnail%20tiposdelistas.png)
+
 ## Lista Ordenada (`<ol>`) 🔽
 
 A lista ordenada é usada para apresentar itens em uma sequência específica. Cada item é numerado em ordem crescente por padrão. Veja um exemplo básico de uma lista ordenada no HTML:
