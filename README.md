@@ -14,8 +14,3 @@ A lista ordenada é usada para apresentar itens em uma sequência específica. C
 </ol>
 
 
-
-## Lista não ordenada (`<ul>`)
-
-
-A lista não ordenada é usada quando a ordem dos itens não é importante.
