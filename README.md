@@ -23,7 +23,7 @@ A lista de definição é usada para fornecer descrições de termos. Cada termo
 
 
 
-![Lista-nao-odernada](/lista%20n%C3%A3o%20ordenada.png)
+![Lista-nao-odernada](/lista%20de%20descri%C3%A7%C3%A3o.png)
 
 ## Contato ✉️
 
